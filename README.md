@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Rakha Fadilah Riyadi 👋  
 
-<!--
-**RakhaFR/RakhaFr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Front-End Web Developer from Bogor, West Java 🇮🇩  
 
-Here are some ideas to get you started:
+I have 1 year of hands-on experience building clean, functional, and visually engaging websites.  
+For me, building software is not just a job — it's an art form 🎨  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I focus on crafting user-friendly interfaces with strong visual identity,  
+making every project not only work well but also feel memorable.  
+
+---
+
+## 🚀 Tech Stack
+💻 HTML • CSS • JavaScript  
+
+---
+
+## 🌐 Portfolio
+🔗 https://rakhafr.github.io/RFR_PORTOFOLIO/  
+
+---
+
+## 📊 GitHub Stats
+![Rakha's GitHub stats](https://github-readme-stats.vercel.app/api?username=RakhaFR&show_icons=true)
+
+---
+
+## 🔥 Fun Fact
+⚡ Code meets creativity  
+🎮 Love building interactive web & game projects  
+
+---
+
+## 🤝 Let's Connect
+If you're interested in working together, feel free to reach out! 🚀
