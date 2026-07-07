@@ -15,6 +15,7 @@ making every project not only work well but also feel memorable.
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-cyan?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -23,12 +24,16 @@ making every project not only work well but also feel memorable.
 ---
 
 ## 🌐 Portfolio
-🔗 https://rakhafr.github.io/RFR_PORTOFOLIO/  
+🔗 [rakhafr.github.io/RFR_PORTOFOLIO](https://rakhafr.github.io/RFR_PORTOFOLIO/)  
 
 ---
 
 ## 📊 GitHub Stats
-![Rakha's GitHub stats](https://github-readme-stats.vercel.app/api?username=RakhaFR&show_icons=true)
+
+Kombinasi performa coding kamu:
+
+![Rakha's GitHub stats](https://github-readme-stats.vercel.app/api?username=RakhaFR&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RakhaFR&layout=compact&theme=radical&hide_border=true)
 
 ---
 
