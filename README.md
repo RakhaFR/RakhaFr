@@ -31,8 +31,7 @@ making every project not only work well but also feel memorable.
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RakhaFR&show_icons=true&theme=radical&hide_border=true" alt="Rakha's GitHub stats" height="180" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RakhaFR&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RakhaFR&theme=radical&hide_border=true" alt="Rakha's GitHub Streak" />
 </p>
 
 ---
