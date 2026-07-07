@@ -31,8 +31,8 @@ making every project not only work well but also feel memorable.
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RakhaFR&theme=radical" alt="Rakha's GitHub Stats" width="400" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RakhaFR&theme=radical" alt="Top Langs" width="300" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RakhaFR&theme=radical" alt="Rakha's GitHub Stats" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RakhaFR&theme=radical" alt="Top Langs" height="200" />
 </p>
 
 ---
